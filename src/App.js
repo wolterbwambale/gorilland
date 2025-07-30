@@ -2,9 +2,7 @@ import React from "react";
 function App() {
   return (
     <div className="App">
-     <h1 className="text-3xl text-gray-400 font-bold">
-      Hello world!
-    </h1>
+      <h1 className="text-3xl text-gray-400 font-bold">Hello world!</h1>
     </div>
   );
 }
