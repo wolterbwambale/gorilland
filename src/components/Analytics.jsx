@@ -10,7 +10,9 @@ function Analytics() {
           className="rounded-md w-[500px] my-2 mx-auto px-2"
         />
         <div className="flex justify-center flex-col">
-          <p className="text-[#00df9a] font-mono font-bold sm:text-3xl text-xl py-2">Tour With Us</p>
+          <p className="text-[#00df9a] font-mono font-bold sm:text-3xl text-xl py-2">
+            Tour With Us
+          </p>
           <h1 className="md:text-4xl sm:text-3xl text-xl font-bold font-serif py-2">
             Start Your Holiday
           </h1>
