@@ -4,6 +4,8 @@ import Hero from "./components/Hero";
 import Analytics from "./components/Analytics";
 import Newsletter from "./components/Newsletter";
 import Cards from "./components/Cards";
+import Footer from "./components/Footer";
+import Company from "./components/Company";
 function App() {
   return (
     <div className="">
@@ -12,6 +14,8 @@ function App() {
       <Analytics />
       <Newsletter />
       <Cards />
+      <Footer />
+      <Company />
     </div>
   );
 }

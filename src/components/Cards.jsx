@@ -22,7 +22,7 @@ const Cards = () => {
             <p className="py-2 border-b">Accomodation</p>
             <p className="py-2 border-b">Meals</p>
           </div>
-          <button className="bg-[#00df9a] py-2 text-white my-2 font-medium mx-auto w-[200px] rounded-md">
+          <button className="bg-[#00df9a] py-2 text-white my-6 font-medium mx-auto w-[200px] rounded-md">
             Get startd
           </button>
         </div>
@@ -41,7 +41,7 @@ const Cards = () => {
             <p className="py-2 border-b">Accomodation</p>
             <p className="py-2 border-b">Meals</p>
           </div>
-          <button className="bg-[#00df9a] py-2 text-white my-2 font-medium mx-auto w-[200px] rounded-md">
+          <button className="bg-[#00df9a] py-2 text-white my-6 font-medium mx-auto w-[200px] rounded-md">
             Get startd
           </button>
         </div>
@@ -60,7 +60,7 @@ const Cards = () => {
             <p className="py-2 border-b mx-8">Accomodation</p>
             <p className="py-2 border-b">Meals</p>
           </div>
-          <button className="bg-[#00df9a] py-2 text-white my-2 font-medium mx-auto w-[200px] rounded-md">
+          <button className="bg-[#00df9a] py-2 text-white my-6 font-medium mx-auto w-[200px] rounded-md">
             Get startd
           </button>
         </div>
