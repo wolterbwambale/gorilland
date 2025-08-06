@@ -9,7 +9,7 @@ function Company() {
           <p>
             Copyright © Gorilland Travel Care 2025{" "}
             <span className="text-[#004e35] font-bold">
-              Travel Way by Acme Themes
+              Travel Way by Ben Wolter
             </span>
           </p>
           <div className="flex gap-4 py-4 px-6">
