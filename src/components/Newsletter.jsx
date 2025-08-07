@@ -3,7 +3,10 @@ import React from "react";
 const Newsletter = () => {
   return (
     <div className="w-full mx-w-[1240px] py-16 px-4 text-white">
-      <div className="max-w-[1240px] mx-auto grid lg:grid-cols-3">
+      <div
+        className="max-w-[1240px] mx-auto grid lg:grid-cols-3"
+        data-aos="fade-up"
+      >
         <div className="lg:col-span-2 my-4">
           <h1 className="text-2xl sm:2xl xl">
             {" "}

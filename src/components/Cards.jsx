@@ -6,7 +6,10 @@ import agency from "../assets/agency.png";
 const Cards = () => {
   return (
     <div className="w-full py-[10rem] px-4 bg-white">
-      <div className="max-w-[1240px] mx-auto grid md:grid-cols-3 gap-8">
+      <div
+        data-aos="fade-up"
+        className="max-w-[1240px] mx-auto grid md:grid-cols-3 gap-8"
+      >
         <div className="w-full shadow-xl my-8 p-4 flex flex-col rounded-xl hover:scale-105 duration-300">
           <img
             src={travel}

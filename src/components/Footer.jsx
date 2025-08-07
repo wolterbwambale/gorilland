@@ -3,7 +3,10 @@ import React from "react";
 function Footer() {
   return (
     <div className="max-w-[1240px] my-16 px-4 mx-auto bg-black">
-      <div className="w-full text-white grid md:grid-cols-4 gap-6 py-4 px-2 ">
+      <div
+        data-aos="fade-up"
+        className="w-full text-white grid md:grid-cols-4 gap-6 py-4 px-2 "
+      >
         <div>
           <h2 className="text-2xl font-bold text-gray-600">Who we are</h2>
           <p>

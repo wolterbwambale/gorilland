@@ -3,7 +3,7 @@ import React from "react";
 function Company() {
   return (
     <div>
-      <div className="w-full mx-auto bg-gray-400  px-3">
+      <div data-aos="" className="w-full mx-auto bg-gray-400  px-3 ">
         <div className="sm:flex justify-center items-center gap-8">
           {" "}
           <p>

@@ -1,17 +1,27 @@
 import React from "react";
 import { ReactTyped } from "react-typed";
+
 function Hero() {
   return (
     <div className="text-white">
-      <div className="max-w-[800px] mt-[-96px] w-full h-screen mx-auto flex flex-col text-center justify-center">
+      <div
+        data-aos="fade-up"
+        className="max-w-[800px] mt-[-96px] w-full h-screen mx-auto flex flex-col text-center justify-center"
+      >
         <p className="text-[#00df9a] font-bold py-2 font-sans text-center">
           TREKKING GORILLA
         </p>
-        <h1 className="md:text-6xl sm:6xl text-xl md:py-6 font-bold">
+        <h1
+          data-aos="fade-up"
+          className="md:text-6xl sm:6xl text-xl md:py-6 font-bold"
+        >
           GO TREKKING GORILLA
         </h1>
         <div className="flex justify-center items-center text-center">
-          <p className="md:text-3xl sm:text-3xl text-xl font-semibold sm:text-center">
+          <p
+            data-aos="fade-up"
+            className="md:text-3xl sm:text-3xl text-xl font-semibold sm:text-center"
+          >
             Let us take you places trekking Gorillas in{" "}
             <ReactTyped
               className="text-[#00df9a] font-serif font-bold text-center"

@@ -8,8 +8,9 @@ function Analytics() {
           src={pricing}
           alt="consultancy"
           className="rounded-md w-[500px] my-2 mx-auto px-2"
+          data-aos="zoom-in"
         />
-        <div className="flex justify-center flex-col">
+        <div className="flex justify-center flex-col" data-aos="fade-up-right">
           <p className="text-[#00df9a] font-mono font-bold sm:text-3xl text-xl py-2">
             Tour With Us
           </p>
